@@ -9,7 +9,7 @@
 <a href="https://github.com/sanjaygd/Advance_blog-14">7.Advance_blog-14 Models Manager and Instance Method</a><br>
 <a href="https://github.com/sanjaygd/Advance_blog-15">8.Advance_blog-15 Creating comment</a><br>
 <a href="https://github.com/sanjaygd/Advance_blog-16">9.Advance_blog-16 Replying to comment</a><br>
-<a href="https://github.com/sanjaygd/Advance_blog-17">9.Advance_blog-17 jQuery fadeToggle for Comment Replies</a><br>
+<a href="https://github.com/sanjaygd/Advance_blog-17">10.Advance_blog-17 jQuery fadeToggle for Comment Replies</a><br>
 
 
 
